@@ -1,5 +1,5 @@
 <h1 align="center">Welcome👋</h1>
-<h3 align="center">Hi, I'm nasrullah siddik, a fullstack programmer from Indonesia precisely in Tanah Laut Regency.</h3>
+<h3 align="center">Hi, I'm nasrullah siddik, a Full Stack Developer from Indonesia precisely in Tanah Laut Regency.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=as-shiddiq&label=Profile%20views&color=0e75b6&style=flat" alt="as-shiddiq" /> </p>
 

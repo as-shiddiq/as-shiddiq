@@ -2,10 +2,8 @@
 
 Hi, I'm nasrullah siddik, a fullstack programmer from Indonesia precisely in Tanah Laut Regency.
 you can find me at :
-[![instagram](https://github.com/shikhar1020jais1/Git-Social/blob/master/Icons/Instagram.png (Instagram))][2]
-[![linkedin](https://github.com/shikhar1020jais1/Git-Social/blob/master/Icons/LinkedIn.png (LinkedIn))][4]
-[2]: https://www.instagram.com/as.shiddiq
-[4]: https://id.linkedin.com/in/as-shiddiq
+[![instagram](https://github.com/shikhar1020jais1/Git-Social/blob/master/Icons/Instagram.png (Instagram))][https://www.instagram.com/as.shiddiq]
+[![linkedin](https://github.com/shikhar1020jais1/Git-Social/blob/master/Icons/LinkedIn.png (LinkedIn))][https://id.linkedin.com/in/as-shiddiq]
 
 ![](https://komarev.com/ghpvc/?username=as-shiddiq)
 
